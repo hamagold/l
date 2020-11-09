@@ -5,4 +5,3 @@ elif day == 2:
     print('I will think about it')
 else:
     print("Good By forever")
-    
